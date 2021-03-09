@@ -7,7 +7,7 @@
 
 
 - 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.)  
-**<p align="right">错误(F)</p>**
+** align="right" 错误(F) **
 
 
 
