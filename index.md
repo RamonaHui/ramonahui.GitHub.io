@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# 自杀知识科普
 
-You can use the [editor on GitHub](https://github.com/RamonaHui/ramonahui.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+您可以通过翻阅该网站，得到“自杀知识素养问卷”的正确答案以及其他自杀相关的知识科普内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 自杀知识素养问卷（LOSS）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+XXX编制，中文版
 
-```markdown
-Syntax highlighted code block
+- 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.)
+- **错误(F)**
 
-# Header 1
-## Header 2
-### Header 3
+- 很少有人想到过自杀. (Very few people have thoughts about suicide.)
+- **错误(F)**
 
-- Bulleted
-- List
+- 如果由精神病医生进行诊断，所有自杀的人都应该会被诊断为抑郁发作. (If assessed by a psychiatrist, everyone who kills themselves would be diagnosed as depressed.)
+- **错误(F)**
 
-1. Numbered
-2. List
+- 谈论自杀相关的问题总会提高自杀的风险.  (Talking about suicide always increases the risk of suicide.)
+- **错误(F)**
 
-**Bold** and _Italic_ and `Code` text
+- 讨论自杀的人很少自杀.  (People who talk about suicide rarely kill themselves.)
+- **错误(F)**
 
-[Link](url) and ![Image](src)
-```
+- 想尝试自杀的人可以很快改变他们的念头. (People who want to attempt suicide can change their mind quickly.)
+- **正确(T)**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 不是所有尝试自杀的人都会事先计划. (Not all people who attempt suicide plan their attempt in advance.)
+- **正确(T)**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RamonaHui/ramonahui.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
