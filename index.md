@@ -3,12 +3,11 @@
 您可以通过翻阅该网站，得到“自杀知识素养问卷”的正确答案以及其他自杀相关的知识科普内容。
 
 
-## 自杀知识素养问卷（LOSS）
+### 自杀知识素养问卷（LOSS）
 
-XXX编制，中文版
 
 - 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-**错误(F)**
+**错误(F)** 
 
 
 
@@ -57,3 +56,15 @@ XXX编制，中文版
 
 - 看精神病医生和心理咨询师可以帮助防止某些人自杀. (Seeing a psychiatrist or psychologist can help prevent someone from suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 **正确(T)**
+
+
+### 参考文献
+
+1. Han J, Batterham PJ, Calear AL, et al. Translation and validation of the Chinese versions of the Suicidal Ideation Attributes Scale, Stigma of Suicide Scale, and Literacy of Suicide Scale. Death Studies. 2017 Mar;41(3):173-179. DOI: 10.1080/07481187.2016.1214633.
+
+2. CALEAR, A. L., BATTERHAM, P. J., & CHRISTENSEN, H. (2012). The Literacy of Suicide Scale: Psychometric properties and correlates of suicide literacy. Unpublished manuscript.
+
+
+### 联系博主
+
+如有任何疑问请联系raehuiziruo@163.com
