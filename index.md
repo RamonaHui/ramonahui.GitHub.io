@@ -7,12 +7,12 @@
 
 
 - 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.)  
- **错误(F)**
+**<p align="right">错误(F)</p>**
 
 
 
 - 很少有人想到过自杀. (Very few people have thoughts about suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-**<div style="text-align: right"> 错误(F) </div>**
+**<p align="right">错误(F)</p>**
 
 
 
