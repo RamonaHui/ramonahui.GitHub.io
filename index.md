@@ -7,8 +7,7 @@
 
 
 - 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.)
-<br> 
-**错误(F)**
+<p align="right">错误(F)</p>
   
   
 - 很少有人想到过自杀. (Very few people have thoughts about suicide.)
@@ -17,44 +16,44 @@
 
 
 - 如果由精神病医生进行诊断，所有自杀的人都应该会被诊断为抑郁发作. (If assessed by a psychiatrist, everyone who kills themselves would be diagnosed as depressed.) &nbsp; &nbsp; &nbsp; &nbsp; 
-**错误(F)**
+<p align="right">错误(F)</p>
 
 
 
 - 谈论自杀相关的问题总会提高自杀的风险.  (Talking about suicide always increases the risk of suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**错误(F)**
+<p align="right">错误(F)</p>
 
 
 - 讨论自杀的人很少自杀.  (People who talk about suicide rarely kill themselves.) &nbsp; &nbsp; &nbsp; 
-**错误(F)**
+<p align="right">错误(F)</p>
 
 
 
 - 想尝试自杀的人可以很快改变他们的念头. (People who want to attempt suicide can change their mind quickly.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**正确(T)**
+<p align="right">正确(T)</p>
 
 
 
 - 不是所有尝试自杀的人都会事先计划. (Not all people who attempt suicide plan their attempt in advance.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**正确(T)**
+<p align="right">正确(T)</p>
 
 
 - 大多数自杀的人都有精神问题. (Most people who suicide are psychotic.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**错误(F)**
+<p align="right">错误(F)</p>
 
 
 - 酗酒与自杀之间有紧密的关联. (There is a strong relationship between alcoholism and suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-**正确(T)**
+<p align="right">正确(T)</p>
 
 
 
 - 有自杀想法的人不应该向他人透露. (People who have thoughts about suicide should not tell others about it.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**错误(F)**
+<p align="right">错误(F)</p>
 
 
 
 - 看精神病医生和心理咨询师可以帮助防止某些人自杀. (Seeing a psychiatrist or psychologist can help prevent someone from suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
-**正确(T)**
+<p align="right">正确(T)</p>
 
 
 ### 参考文献
