@@ -7,11 +7,12 @@
 
 
 - 有自杀倾向的人总是倾向自杀，总是有自杀的想法. (A suicidal person will always be suicidal and entertain thoughts of suicide.)
+<br> 
 **错误(F)**
-
-
-- 很少有人想到过自杀. (Very few people have thoughts about suicide.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-**错误(F)**
+  
+  
+- 很少有人想到过自杀. (Very few people have thoughts about suicide.)
+<p align="right">错误(F)</p>
 
 
 
@@ -30,7 +31,7 @@
 
 
 - 想尝试自杀的人可以很快改变他们的念头. (People who want to attempt suicide can change their mind quickly.) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**正确(T)>**
+**正确(T)**
 
 
 
